@@ -1,5 +1,14 @@
 {
   "item.foodmod.chocolate": "Chocolate",
   "item.foodmod.dubai_chocolate": "Dubai chocolate",
-  "item.foodmod.pistachio": "Pistachio"
+  "item.foodmod.pistachio": "Pistachio",
+
+  "block.foodmod.pistachio_log": "Pistachio Log",
+  "block.foodmod.pistachio_planks": "Pistachio Planks",
+  "block.foodmod.pistachio_wood": "Pistachio Wood",
+  "block.foodmod.stripped_pistachio_log": "Stripped Pistachio Log",
+  "block.foodmod.stripped_pistachio_wood": "Stripped Pistachio Wood",
+  "block.foodmod.pistachio_leaves": "Pistachio Leaves",
+
+  "block.foodmod.pistachio_sapling": "Pistachio Sapling"
 }
