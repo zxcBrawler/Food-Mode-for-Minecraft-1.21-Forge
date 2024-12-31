@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "foodmod:block/pistachio_log",
+    "side": "foodmod:block/pistachio_log"
+  }
+}

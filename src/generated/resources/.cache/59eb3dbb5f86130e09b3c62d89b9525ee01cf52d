@@ -1,0 +1,8 @@
+// 1.21	2025-01-01T00:48:13.906573	Loot Tables
+1dd967bee24acf5d5f0948ffb75ffe755462466f data/foodmod/loot_table/blocks/pistachio_leaves.json
+57c7d2b2f9204bf6c151cf5f9f2369bed367870f data/foodmod/loot_table/blocks/pistachio_log.json
+e23809a4d1d09375cee80e2c9a74c7bb92b83057 data/foodmod/loot_table/blocks/pistachio_planks.json
+fd3b59661acc7906fc480d4f385d4bf656824437 data/foodmod/loot_table/blocks/pistachio_sapling.json
+eb2959f47308ca9494e03d635a2e5e77414d4969 data/foodmod/loot_table/blocks/pistachio_wood.json
+fcfe799b77728c973648bb6146696d9b7f082bd1 data/foodmod/loot_table/blocks/stripped_pistachio_log.json
+4a1b987726dc579301a3491e794371ec73874a45 data/foodmod/loot_table/blocks/stripped_pistachio_wood.json
