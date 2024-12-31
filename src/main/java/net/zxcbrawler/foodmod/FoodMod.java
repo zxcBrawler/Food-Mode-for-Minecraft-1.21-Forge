@@ -50,6 +50,7 @@ public class FoodMod {
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.CHOCOLATE);
             event.accept(ModItems.DUBAI_CHOCOLATE);
+            event.accept(ModItems.PISTACHIO);
         }
     }
 

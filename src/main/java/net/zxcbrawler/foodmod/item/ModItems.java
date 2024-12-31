@@ -22,6 +22,9 @@ public class ModItems {
     public static final RegistryObject<Item> DUBAI_CHOCOLATE = ITEMS.register("dubai_chocolate",
             () -> new Item(new Item.Properties().food(DUBAI_CHOCOLATE_CONFIG)));
 
+    public static final RegistryObject<Item> PISTACHIO = ITEMS.register("pistachio",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

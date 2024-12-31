@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "X": {
+      "item": "minecraft:sugar"
+    },
+    "@": {
+      "item": "minecraft:milk_bucket"
+    },
+    "p": {
+      "item": "foodmod:pistachio"
+    }
+  },
+  "pattern": [
+    "p#p",
+    "XXX",
+    "@@@"
+  ],
+  "result": {
+    "count": 2,
+    "id": "foodmod:dubai_chocolate"
+  },
+  "show_notification": true
+}
